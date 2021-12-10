@@ -15,4 +15,8 @@ On the presentation layer we will cover boostrap.
 On buisness logic express.
 mongogb on the data storage side.
 
-
+What is a full stack developer? Answer, 
+A full stack developer understand the entire stack, He is familiar with each layer of webdevelopment,
+1. The Server, network and hosting Environment
+2. The data modeling
+3. The buisness logic
